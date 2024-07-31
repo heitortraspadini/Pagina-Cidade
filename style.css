@@ -1,0 +1,19 @@
+.legenda {
+    font-size: 13px; 
+    margin-left: 20%; 
+    margin-right: 20%; 
+    text-align: center;
+}
+.descricao {
+    font-size: 18px; 
+    margin-left: 20%; 
+    margin-right: 20%; 
+    text-align: justify;
+}
+body {
+    background-color: rgb(245, 222, 179); 
+    margin: 5%;
+}
+.botao {
+    border-radius: 10px;
+}
